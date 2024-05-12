@@ -6,3 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //jis file ma ap ko data chy wha ap import 
 const first_1 = __importDefault(require("./first"));
 console.log(first_1.default);
+//object export
+const first_2 = require("./first");
+console.log(first_2.array);
+console.log(first_2.obj);

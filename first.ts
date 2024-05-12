@@ -4,3 +4,14 @@
 
 let a=50;
 export default a;
+let array=[1,2,4];
+const obj=
+{
+name:"Ekrash zahid"
+};
+
+export
+{
+    array,obj,
+    
+}
